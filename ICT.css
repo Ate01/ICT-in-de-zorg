@@ -1,5 +1,8 @@
-body {
+body{
   color:red;
+}
+
+.page {
   border-style:solid;
   border-width:medium;
   width: 825px;
