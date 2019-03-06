@@ -8,4 +8,6 @@ body {
   border-top-right-radius: 35px;
   border-bottom-left-radius: 35px;
   border-bottom-right-radius: 35px;
+  margin-left:auto;
+  margin-right:auto;
 }
