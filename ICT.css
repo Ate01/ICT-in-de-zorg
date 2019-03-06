@@ -1,5 +1,7 @@
 body {
   color:red;
   border-style:solid;
-  border-width:medium
+  border-width:medium;
+  width: 825px;
+  height: 150px;
 }
