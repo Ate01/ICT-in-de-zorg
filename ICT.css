@@ -18,14 +18,4 @@ h1 {
   padding: 30px 500px
 }
 
-.main-nav a{
-  display:inline-block;
-  border-radius: 5px 5px 5px 5px;
-  border-bottom: 10px solid;
-  text-decoration: none;
-  padding: 5px 140px;
-  position: relative;
-  top: 10px;
-  transition: top 300ms ease;
-}
     
