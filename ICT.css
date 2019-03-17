@@ -4,9 +4,9 @@ body{
 
 a:hover {
   background-color: yellow;
-  width: 100px;
-  height: 100px;
-  transition: width 2s;
+  width: 180px;
+  height: 37px;
+  transition: width 1s;
 }
 
 .page {
