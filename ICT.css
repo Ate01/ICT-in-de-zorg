@@ -25,6 +25,14 @@ h1 {
   background-image:url(http://brain-energy.nl/wp-content/uploads/2017/09/Neuronen-2017-09-26-om-21.56.42.png);
 }
 
+h3 {
+  font-size: 20px;
+}
+
+h4 {
+  font-size: 20px;
+}
+
 ul {
   list-style-type: none;
   margin: 0;
