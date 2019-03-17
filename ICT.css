@@ -2,7 +2,19 @@ body{
   color:red;
 }
 
-a:hover {
+a1:hover {
+  background-color: yellow;
+}
+
+a2:hover {
+  background-color: yellow;
+}
+
+a3:hover {
+  background-color: yellow;
+}
+
+a4:hover {
   background-color: yellow;
 }
 
