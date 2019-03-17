@@ -2,6 +2,10 @@ body{
   color:red;
 }
 
+a:hover {
+  background-color: yellow;
+}
+
 .page {
   font-family: cursive;
 }
