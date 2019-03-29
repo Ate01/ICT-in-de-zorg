@@ -6,7 +6,7 @@ body{
 a:hover {
   background-color: yellow;
   width: 180px;
-  height: 37px;
+  height: 25px;
   transition: width 1s;
 }
 
