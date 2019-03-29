@@ -1,5 +1,6 @@
 body{
   color:black;
+  font-family: 'Ubuntu', sans-serif;
 }
 
 a:hover {
@@ -9,9 +10,7 @@ a:hover {
   transition: width 1s;
 }
 
-.page {
-  font-family: cursive;
-}
+
 
 h1 {
   font-size: 45px;
@@ -43,6 +42,7 @@ ul {
 li a {
   display: block;
   width: 60px;
+  text-decoration: none;
 }
 
 
