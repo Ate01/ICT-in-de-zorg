@@ -54,4 +54,7 @@ li a {
   text-decoration: none;
 }
 
-
+video{
+  margin: 0 auto;
+	border: 10px outset #ddd;
+}
