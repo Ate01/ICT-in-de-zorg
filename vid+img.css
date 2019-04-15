@@ -16,3 +16,12 @@ h2 {
 h3 {
   font-size: 20px;
 }
+
+video{
+  margin: 0 auto;
+	border: 10px outset #ddd;
+}
+
+image{
+  margin: 0 auto;
+}
