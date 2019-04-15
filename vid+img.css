@@ -4,6 +4,13 @@ body {
   background-color:lightskyblue;
 }
 
+a:hover {
+  background-color: yellow;
+  width: 210px;
+  height: 25px;
+  transition: width 1s;
+}
+
 h1 {
   font-size: 45px;
   color: black;
@@ -15,6 +22,18 @@ h2 {
 
 h3 {
   font-size: 20px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li a {
+  display: block;
+  width: 160px;
+  text-decoration: none;
 }
 
 video{

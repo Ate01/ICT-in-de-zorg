@@ -6,12 +6,10 @@ body{
 
 a:hover {
   background-color: yellow;
-  width: 180px;
+  width: 210px;
   height: 25px;
   transition: width 1s;
 }
-
-
 
 h1 {
   font-size: 45px;
@@ -50,6 +48,6 @@ ul {
 
 li a {
   display: block;
-  width: 60px;
+  width: 160px;
   text-decoration: none;
 }
