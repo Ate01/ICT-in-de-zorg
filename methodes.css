@@ -31,3 +31,7 @@ li a {
   width: 180px;
   text-decoration: none;
 }
+
+tr {
+  border: 2px solid black;  
+}
