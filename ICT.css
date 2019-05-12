@@ -1,16 +1,6 @@
 body{
   color:black;
   font-family: 'Ubuntu', sans-serif;
-}
-
-a:hover {
-  background-color: yellow;
-  width: 210px;
-  height: 25px;
-  transition: width 1s;
-}
- 
-img {
   background-image: url(https://cdn.pixabay.com/photo/2018/12/03/12/01/hand-prosthesis-3853275_960_720.jpg);
   background-repeat: no-repeat;
   background-size: cover;
@@ -18,6 +8,13 @@ img {
   width: 100%;
   height: 150px;
   position:relative;
+}
+
+a:hover {
+  background-color: yellow;
+  width: 210px;
+  height: 25px;
+  transition: width 1s;
 }
 
 h1 {
