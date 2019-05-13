@@ -38,10 +38,14 @@ li a {
   
 h3 {
   font-size: 20px;
+  border-style: solid;
+  background-color: white;
 }
 
 h4 {
   font-size: 20px;
+  border-style: solid;
+  background-color: white;
 }
 
 h5 {
