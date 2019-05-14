@@ -53,7 +53,7 @@ li a {
 }
 
 tr {
-  border: 2px solid black;
+  border: 2px solid;
   border-style: solid;
   background-color: white;
   margin-left: 200px;
