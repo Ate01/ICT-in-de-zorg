@@ -23,13 +23,14 @@ ul {
   background-color: #f1f1f1;
 }
 
-h1 {
-  font-size: 45px;
-  color: black;
-  margin: 200px;
+h3 {
+  font-size: 20px;
+  border-style: solid;
+  background-color: white;
+  margin-left: 200px;
 }
 
-h3 {
+h4 {
   font-size: 20px;
   border-style: solid;
   background-color: white;
