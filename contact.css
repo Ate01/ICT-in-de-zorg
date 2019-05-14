@@ -15,23 +15,32 @@ a:hover {
   transition: width 1s;
 }
 
-h1 {
-  font-size: 45px;
-  color: black;
-}
-
 h2 {
-  font-size: 30px;
+  font-size: 20px;
+  border-style: solid;
+  background-color: white;
+  margin-left: 200px;
 }
 
 h3 {
   font-size: 20px;
+  border-style: solid;
+  background-color: white;
+  margin-left: 200px;
 }
 
 ul {
+  padding-top: 150px;
+  text-align: left;
+  position: absolute;
+  height: 100%;
+  top: 0;
+  left: 0;
   list-style-type: none;
   margin: 0;
   padding: 0;
+  width: 200px;
+  background-color: #f1f1f1;
 }
 
 li a {
