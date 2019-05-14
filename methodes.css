@@ -26,6 +26,7 @@ ul {
 h1 {
   font-size: 45px;
   color: black;
+  margin: 200px;
 }
 
 h3 {
@@ -51,5 +52,8 @@ li a {
 }
 
 tr {
-  border: 2px solid black;  
+  border: 2px solid black;
+  border-style: solid;
+  background-color: white;
+  margin-left: 200px;
 }
