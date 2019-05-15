@@ -18,7 +18,11 @@ a:hover {
 h1 {
   font-size: 45px;
   color: black;
+<<<<<<< HEAD
   margin-left: 200px
+=======
+  margin-left: 200px;
+>>>>>>> 9f4b1aedb329836363c3e9fe6f722164c1884009
 }
 
 h2 {
@@ -30,8 +34,11 @@ h2 {
 
 h3 {
   font-size: 20px;
+<<<<<<< HEAD
   border-style: solid;
   background-color: white;
+=======
+>>>>>>> 9f4b1aedb329836363c3e9fe6f722164c1884009
   margin-left: 200px;
 }
 
@@ -45,8 +52,32 @@ ul {
 
 li a {
   display: block;
-  width: 180px;
+  color: #000;
+  padding: 8px 16px;
   text-decoration: none;
+}
+
+<<<<<<< HEAD
+ul {
+  padding-top: 150px;
+  text-align: left;
+  position: absolute;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+
+video{
+=======
+video {
+>>>>>>> 9f4b1aedb329836363c3e9fe6f722164c1884009
+  margin: 0 auto;
+  border: 10px outset #ddd;
+  margin-left: 200px;
+}
+
+image {
+  margin-left: 200px;
 }
 
 ul {
@@ -58,11 +89,8 @@ ul {
   left: 0;
 }
 
-video{
-  margin: 0 auto;
-	border: 10px outset #ddd;
-}
-
-image{
-  margin: 0 auto;
+li a {
+  display: block;
+  width: 180px;
+  text-decoration: none;
 }

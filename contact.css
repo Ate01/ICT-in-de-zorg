@@ -30,7 +30,6 @@ h1 {
 
 h2 {
   font-size: 20px;
-  border-style: solid;
   background-color: white;
   margin-left: 200px;
 }
@@ -40,6 +39,7 @@ h3 {
   border-style: solid;
   background-color: white;
   margin-left: 200px;
+  border-radius: 10px 10px 10px 10px;
 }
 
 ul {
