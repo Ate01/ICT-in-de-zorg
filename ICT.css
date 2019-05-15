@@ -40,6 +40,7 @@ h3 {
   border-style: solid;
   background-color: white;
   margin-left: 200px;
+  border-radius: 10px 10px 10px 10px;
 }
 
 h4 {
@@ -47,6 +48,7 @@ h4 {
   border-style: solid;
   background-color: white;
   margin-left: 200px;
+  border-radius: 10px 10px 10px 10px;
 }
 
 h5 {
