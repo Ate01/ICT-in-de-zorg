@@ -18,6 +18,7 @@ a:hover {
 h1 {
   font-size: 45px;
   color: black;
+  margin-left: 200px;
 }
 
 h2 {
@@ -26,6 +27,7 @@ h2 {
 
 h3 {
   font-size: 20px;
+  margin-left: 200px;
 }
 
 ul {
@@ -46,10 +48,12 @@ li a {
 video {
   margin: 0 auto;
   border: 10px outset #ddd;
+  margin-left: 200px;
 }
 
 image {
   margin: 0 auto;
+  margin-left: 200px;
 }
 
 ul {
