@@ -58,3 +58,6 @@ tr {
   background-color: white;
   margin-left: 200px;
 }
+
+p {
+  column-count: 2;
