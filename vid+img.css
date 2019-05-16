@@ -70,5 +70,7 @@ video{
 }
 
 image{
-  margin: 0 auto;
+ margin: 0 auto;
+height: 100%;
+width: 100%;
 }
