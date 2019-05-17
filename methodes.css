@@ -62,8 +62,6 @@ tr {
 p {
   column-count: 3;
   
-  @media (min-width: 600px)  {
- p {
+  p (min-width: 600px)  {
   column-count: 2;
     }
-  }
