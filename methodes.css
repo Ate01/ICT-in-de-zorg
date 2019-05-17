@@ -62,7 +62,7 @@ tr {
 p {
   column-count: 3;
   
-  @media only screen and (min-width: 600px)  {
+  @media (min-width: 600px)  {
  p {
   column-count: 2;
     }
